@@ -93,7 +93,4 @@ public class IntListMain
 	System.out.println("6. Print the list backwards");
 	System.out.print("\nEnter your choice: ");
     }
-
-
 }
-
